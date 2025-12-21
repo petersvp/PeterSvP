@@ -2,7 +2,7 @@ I'm **Petar “PeterSvP” Petrov** — an indie game developer and the CEO of P
 
 My main creative focus as of now is video games. I'm working on [**ColorBlend FX: Desaturation**](https://colorblendfx.com) 🌈 — a 2.5D puzzle-platformer metroidvania with a strong emphasis on puzzle-driven progression and color-splattering gameplay. I've led the project and collaborated with composer [Iliyan "**DarksSilencer**" Kateliev](https://www.youtube.com/darkssilencer), voice actors [Christofer White](https://www.instagram.com/chrisxct3) and *Martina T.*, and our media partners [TDB Play Bulgaria](https://tdbplay.com/) (*OOOYeti*, *Demonichorn*, *SScorpid* & others) as well as **my *great* friends** [**Mitko8009**](https://github.com/mitko8009) (QA) and [**Pumzow**](https://pumzow.com) (art + extra hands everywhere), who supported me far beyond the credits and helped carry me through my own personal *Desaturation*. **SUPPORT INDIE DEVS ❤️**
 
-My second bigger project is [**Chessocracy**](https://chessocracy.com) ♟️ — a real-time multiplayer strategy game where chess-inspired units fight across dynamic terrain, with additional card-driven abilities and RTS-style control. It's both my next game, and a project used to develop reusable systems, tools and multiplayer technology that will carry into future projects.
+My second bigger project is [**Chessocracy**](https://chessocracy.com) ♟️🃏 — a real-time multiplayer strategy game where chess-inspired units fight across dynamic terrain, with additional card-driven abilities and RTS-style control. It's both my next game, and a project used to develop reusable systems, tools and multiplayer technology that will carry into future projects.
 
 
 ### 🚀 What I do
